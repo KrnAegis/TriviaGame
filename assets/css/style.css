@@ -1,0 +1,19 @@
+.qText {
+	text-align: center;
+	font-size: 24px;
+	color: orange;
+
+}
+
+.btn-default {
+	width: 100%;
+	font-size: 18px;	
+
+}
+#timer {
+		color: white;
+}
+body {
+	background: url("../images/bodywall.png");
+	font-family: 'Anton', sans-serif;
+}
